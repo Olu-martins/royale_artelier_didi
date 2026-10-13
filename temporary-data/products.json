@@ -1,0 +1,788 @@
+{
+  "data": [
+    {
+      "id": "2d36f11e-18aa-442a-8f1c-7145fd7b45b0",
+      "name": "Cocoon Maxi Dress",
+      "priceNaira": "40000.00",
+      "priceUsd": "30.00",
+      "priceGbp": "35.00",
+      "price": "30.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791130094/royale-artelier/e7subhyzhsudprafpmgf.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791130427/royale-artelier/n1rqlpcjoflqcavh6iro.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Linen",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T16:14:02.854Z",
+      "updatedAt": "2026-10-04T16:14:03.260Z"
+    },
+    {
+      "id": "3d2132ba-e834-4988-ac1e-49134d4fafff",
+      "name": "Red halter neck piece",
+      "priceNaira": "60000.00",
+      "priceUsd": "55.00",
+      "priceGbp": "50.00",
+      "price": "55.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791129972/royale-artelier/svplyo2tlnwqbx2kjlm5.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Trousers",
+      "sizes": [
+        "M",
+        "L",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": null,
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T16:05:48.454Z",
+      "updatedAt": "2026-10-04T16:07:20.424Z"
+    },
+    {
+      "id": "58aa853b-1257-4d81-b83b-20613a1d0648",
+      "name": "Floral Print Two piece",
+      "priceNaira": "60000.00",
+      "priceUsd": "55.00",
+      "priceGbp": "45.00",
+      "price": "55.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791129779/royale-artelier/a64vc1zjy5ulmrveeqcc.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Trousers",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": null,
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T16:03:35.131Z",
+      "updatedAt": "2026-10-04T16:03:35.454Z"
+    },
+    {
+      "id": "f73aeaa9-a2ea-4fe7-a086-85e0a1f2c593",
+      "name": "Straight Adire Print Two Piece",
+      "priceNaira": "60000.00",
+      "priceUsd": "65.00",
+      "priceGbp": "55.00",
+      "price": "65.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791129442/royale-artelier/mihsc6evurbsxozeotp9.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Trousers",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "Adire ",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T16:00:27.857Z",
+      "updatedAt": "2026-10-04T16:00:28.143Z"
+    },
+    {
+      "id": "8d0a0ee3-50e2-45c9-90c8-3feff54d4075",
+      "name": "Ankara Suspender Pants",
+      "priceNaira": "35000.00",
+      "priceUsd": "40.00",
+      "priceGbp": "35.00",
+      "price": "40.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791129295/royale-artelier/z4bok2srhrwamnowq8rt.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791129306/royale-artelier/c0owdzhbh6rlhlvzmbjz.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Trousers",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "100% Cotton",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:55:51.997Z",
+      "updatedAt": "2026-10-04T15:55:52.401Z"
+    },
+    {
+      "id": "ea09345d-59a0-411c-8503-a37bce3e52a4",
+      "name": "Denim Skirt Two Piece",
+      "priceNaira": "100000.00",
+      "priceUsd": "80.00",
+      "priceGbp": "75.00",
+      "price": "80.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791128799/royale-artelier/t7czwebuhzlucdzaeoac.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Skirts",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Denim And Aso-oke Collar",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:51:25.446Z",
+      "updatedAt": "2026-10-04T15:51:25.776Z"
+    },
+    {
+      "id": "1675c024-5c0f-49ad-969a-d658af2a100e",
+      "name": "Aso Oke Shorts",
+      "priceNaira": "40000.00",
+      "priceUsd": "50.00",
+      "priceGbp": "55.00",
+      "price": "50.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791127886/royale-artelier/atuqs0ur0nw6mpu763dg.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791127901/royale-artelier/rbubvigjwuxvymt6aowf.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Trousers",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "Aso-oke",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:45:37.763Z",
+      "updatedAt": "2026-10-04T15:45:38.224Z"
+    },
+    {
+      "id": "6f8aea18-7043-4ca0-b581-969dea2fb42c",
+      "name": "Red Two Piece",
+      "priceNaira": "50000.00",
+      "priceUsd": "60.00",
+      "priceGbp": "50.00",
+      "price": "60.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791127581/royale-artelier/zeubnzm0mhxu9dd5hvw4.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "100% Cotton Ankara",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:30:53.783Z",
+      "updatedAt": "2026-10-04T15:30:54.265Z"
+    },
+    {
+      "id": "a7560e01-7eb5-4ece-b0e4-71074e7f8638",
+      "name": "Cotton Shirt Dress",
+      "priceNaira": "40000.00",
+      "priceUsd": "50.00",
+      "priceGbp": "45.00",
+      "price": "50.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791126975/royale-artelier/xdppecqgcc0alfwwoiwk.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "General",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "100% Cotton Ankara",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:24:06.343Z",
+      "updatedAt": "2026-10-04T15:24:06.630Z"
+    },
+    {
+      "id": "cb83f447-c0d5-4896-864e-f1f3aa4c1e76",
+      "name": "Adire Print Two Piece",
+      "priceNaira": "80000.00",
+      "priceUsd": "70.00",
+      "priceGbp": "65.00",
+      "price": "70.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791125843/royale-artelier/isestrso0fwlk19fodi0.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791126825/royale-artelier/igtfruvdyg4okdqhcesm.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blush",
+          "hex": "#DE5D83"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "Adire ",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-10-04T15:05:41.430Z",
+      "updatedAt": "2026-10-04T15:14:23.163Z"
+    },
+    {
+      "id": "ae642b0f-bd20-4310-993b-d72d0534da51",
+      "name": "Two piece ballon pants",
+      "priceNaira": "60000.00",
+      "priceUsd": "70.00",
+      "priceGbp": "60.00",
+      "price": "70.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791125448/royale-artelier/e7grxjak4wkoxdidfsfv.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": false,
+      "inStock": true,
+      "material": "100% Cotton",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": "https://res.cloudinary.com/caresskakka/image/upload/v1791125630/royale-artelier/whqag55u8nden50l0u4l.jpg",
+      "createdAt": "2026-10-04T14:56:22.982Z",
+      "updatedAt": "2026-10-04T14:56:23.287Z"
+    },
+    {
+      "id": "759bea00-9ea6-4861-8cbb-ab5a6a106907",
+      "name": "Navy Two piece",
+      "priceNaira": "50000.00",
+      "priceUsd": "60.00",
+      "priceGbp": "50.00",
+      "price": "60.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791125010/royale-artelier/erpvilvy3j7l21dehtno.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "100% Cotton",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": "https://res.cloudinary.com/caresskakka/image/upload/v1791125311/royale-artelier/pfoka5denwvmr7ex5aok.jpg",
+      "createdAt": "2026-10-04T14:50:06.540Z",
+      "updatedAt": "2026-10-04T14:50:06.834Z"
+    },
+    {
+      "id": "b334bb29-fc83-4063-92cc-51d3e373b185",
+      "name": "Stripes two piece",
+      "priceNaira": "70000.00",
+      "priceUsd": "80.00",
+      "priceGbp": "70.00",
+      "price": "80.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1791124782/royale-artelier/xh3q64ukjlgsfx25a589.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": false,
+      "material": "Linen",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": "https://res.cloudinary.com/caresskakka/image/upload/v1791124821/royale-artelier/wbjine0kiz7vcnx7atsh.jpg",
+      "createdAt": "2026-10-04T14:40:38.426Z",
+      "updatedAt": "2026-10-04T14:42:31.414Z"
+    },
+    {
+      "id": "2dd47d39-c9a0-4507-a037-187004c5009b",
+      "name": "Avaya Bubu",
+      "priceNaira": "49999.92",
+      "priceUsd": "50.00",
+      "priceGbp": "40.00",
+      "price": "50.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787345601/royale-artelier/jific7u9xvvsdlxy7ymz.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787345621/royale-artelier/vi4lecxnsj4iigda3lts.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#C19A6B"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Woodin",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-08-21T20:57:07.765Z",
+      "updatedAt": "2026-08-21T20:57:07.765Z"
+    },
+    {
+      "id": "8e7f67f5-3e8d-42aa-bada-22a1023b58c0",
+      "name": "Ava Bubu",
+      "priceNaira": "45000.00",
+      "priceUsd": "55.00",
+      "priceGbp": "45.00",
+      "price": "55.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787261888/royale-artelier/y4fqlbybylryfggk9znb.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787261897/royale-artelier/qkfwgjvsvlzo5fx0th64.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Woodin",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-08-20T21:38:35.640Z",
+      "updatedAt": "2026-08-20T21:38:35.640Z"
+    },
+    {
+      "id": "e2a25f96-c11d-47a2-b1a3-5a321ff7e598",
+      "name": "Ally Bubu",
+      "priceNaira": "45000.00",
+      "priceUsd": "50.00",
+      "priceGbp": "45.00",
+      "price": "50.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787173268/royale-artelier/xcikgsao3juaewkmjhqm.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1787173277/royale-artelier/rq87dteulmpd4934x1hh.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Woodin",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-08-19T21:02:20.134Z",
+      "updatedAt": "2026-08-19T21:02:20.134Z"
+    },
+    {
+      "id": "5aeedb93-ac24-4e5a-b099-0a4d437ef956",
+      "name": "Avery Dress",
+      "priceNaira": "40000.00",
+      "priceUsd": "40.00",
+      "priceGbp": "30.00",
+      "price": "40.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786987705/royale-artelier/svnxdcxzgwgur7cspmbc.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786987724/royale-artelier/i09jxsgeacrtxbeupxoc.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786987736/royale-artelier/leremexpjlqzf0gszznf.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786987746/royale-artelier/p7yflplyrbolnq3mdk2m.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Linen",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-08-17T17:31:13.400Z",
+      "updatedAt": "2026-08-17T17:31:13.400Z"
+    },
+    {
+      "id": "8afed4c4-07f5-4f71-8a3d-76587dd6485f",
+      "name": "Adunni Bubu Dress",
+      "priceNaira": "50000.00",
+      "priceUsd": "70.00",
+      "priceGbp": "55.00",
+      "price": "70.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786983935/royale-artelier/cpb9vznnaupaerczqo1i.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786984021/royale-artelier/hegqig4wrhheb3clwcrw.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1786984035/royale-artelier/ttsywpmjzlkftdaau2vi.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": false,
+      "isSale": false,
+      "inStock": true,
+      "material": "Mikado and Asooke",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": "https://res.cloudinary.com/caresskakka/image/upload/v1786984628/royale-artelier/ukvv1xmqczlhy1nbvib6.png",
+      "createdAt": "2026-08-17T16:40:13.108Z",
+      "updatedAt": "2026-08-17T16:40:13.108Z"
+    },
+    {
+      "id": "01eb9f4e-8188-4afb-b7eb-d986a40dc991",
+      "name": "BUBU 1",
+      "priceNaira": "75000.00",
+      "priceUsd": "50.00",
+      "priceGbp": "45.00",
+      "price": "50.00",
+      "originalPrice": null,
+      "description": "",
+      "images": [
+        "https://res.cloudinary.com/caresskakka/image/upload/v1781957368/royale-artelier/etcdut1p2uudn1f6g9mo.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1781957394/royale-artelier/kluljswdh4uvztakxs2a.jpg",
+        "https://res.cloudinary.com/caresskakka/image/upload/v1781957402/royale-artelier/rruj4zfq7kl4mjojq6lr.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Dresses",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#C19A6B"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": true,
+      "inStock": true,
+      "material": "Woodin",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-06-20T12:18:49.559Z",
+      "updatedAt": "2026-06-20T13:34:52.708Z"
+    },
+    {
+      "id": "3387cd80-b36d-4ee8-b6d7-73fde47c860d",
+      "name": "Campala Gown",
+      "priceNaira": "0.00",
+      "priceUsd": "0.00",
+      "priceGbp": "0.00",
+      "price": "20.00",
+      "originalPrice": "30000.00",
+      "description": "Campala Gown for outing",
+      "images": [
+        "https://res.cloudinary.com/dwdbuewim/image/upload/v1774135170/royale-artelier/cugghzsv8hvjpbg81d13.jpg",
+        "https://res.cloudinary.com/dwdbuewim/image/upload/v1774135170/royale-artelier/nwdn21tqocsoej6lnykw.jpg"
+      ],
+      "category": "Women",
+      "subcategory": "Outerwear",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#C19A6B"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#722F37"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "brand": "Atelier",
+      "rating": "0.0",
+      "reviews": 0,
+      "isNew": true,
+      "isSale": true,
+      "inStock": true,
+      "material": "100% Cotton Oxford",
+      "careInstructions": null,
+      "returnDays": 2,
+      "sizeGuideImage": null,
+      "createdAt": "2026-03-21T23:21:01.479Z",
+      "updatedAt": "2026-03-21T23:47:10.533Z"
+    }
+  ],
+  "total": 20,
+  "page": 1,
+  "pageSize": 24,
+  "totalPages": 1,
+  "hasMore": false
+}

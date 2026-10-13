@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--
+      Per-page SEO tags (description, canonical, robots, Open Graph, Twitter)
+      are injected at runtime by src/components/SEO.tsx. Declaring them here
+      too would produce duplicates, so only static, page-independent tags live
+      in this file. The <title> is safe because Helmet replaces it in place.
+      The double-underscore placeholders below are substituted at build time
+      by the html-seo-placeholders plugin in vite.config.ts.
+    -->
+    <title>Royale Artelier | Your Style Your Story</title>
+    <meta name="application-name" content="Royale Artelier" />
+    <meta name="author" content="Royale Artelier" />
+    <meta name="theme-color" content="#0b0b0b" />
+    <!-- Both schemes, so native controls and scrollbars follow the theme. -->
+    <meta name="color-scheme" content="light dark" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- The web app manifest is generated and injected by vite-plugin-pwa. -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/pwa-192x192.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png" />
+
+    <!-- iOS has no manifest support for standalone mode; these do that job. -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Artelier" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="__API_ORIGIN__" crossorigin />
+    <link rel="dns-prefetch" href="https://images.unsplash.com" />
+
+    <!-- Site-wide entity graph. Page-level schema is added by SEO.tsx. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "OnlineStore",
+            "@id": "__SITE_URL__/#organization",
+            "name": "Royale Artelier",
+            "url": "__SITE_URL__",
+            "logo": "__SITE_URL__/logo-full.png",
+            "image": "__SITE_URL__/logo-full.png",
+            "slogan": "Your Style Your Story",
+            "description": "Curated couture, luxury ready-to-wear, and accessories for modern royalty.",
+            "sameAs": [
+              "https://www.instagram.com/royaleartelier",
+              "https://www.pinterest.com/royaleartelier",
+              "https://x.com/royale_artelier"
+            ],
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "customer support",
+              "email": "support@royale-artelier.com"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "__SITE_URL__/#website",
+            "name": "Royale Artelier",
+            "url": "__SITE_URL__",
+            "publisher": { "@id": "__SITE_URL__/#organization" },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "__SITE_URL__/products?search={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          }
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <noscript>
+      Royale Artelier requires JavaScript to browse the collection. Please
+      enable it in your browser settings.
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
