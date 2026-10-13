@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://royaleartelier.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/products</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/products?isNew=true</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/products?isSale=true</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/shipping-returns</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/size-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/faqs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/products?category=Men</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/products?category=Women</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/2d36f11e-18aa-442a-8f1c-7145fd7b45b0</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791130094/royale-artelier/e7subhyzhsudprafpmgf.jpg</image:loc>
+      <image:title>Cocoon Maxi Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791130427/royale-artelier/n1rqlpcjoflqcavh6iro.jpg</image:loc>
+      <image:title>Cocoon Maxi Dress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/3d2132ba-e834-4988-ac1e-49134d4fafff</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791129972/royale-artelier/svplyo2tlnwqbx2kjlm5.jpg</image:loc>
+      <image:title>Red halter neck piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/58aa853b-1257-4d81-b83b-20613a1d0648</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791129779/royale-artelier/a64vc1zjy5ulmrveeqcc.jpg</image:loc>
+      <image:title>Floral Print Two piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/f73aeaa9-a2ea-4fe7-a086-85e0a1f2c593</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791129442/royale-artelier/mihsc6evurbsxozeotp9.jpg</image:loc>
+      <image:title>Straight Adire Print Two Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/8d0a0ee3-50e2-45c9-90c8-3feff54d4075</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791129295/royale-artelier/z4bok2srhrwamnowq8rt.jpg</image:loc>
+      <image:title>Ankara Suspender Pants</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791129306/royale-artelier/c0owdzhbh6rlhlvzmbjz.jpg</image:loc>
+      <image:title>Ankara Suspender Pants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/ea09345d-59a0-411c-8503-a37bce3e52a4</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791128799/royale-artelier/t7czwebuhzlucdzaeoac.jpg</image:loc>
+      <image:title>Denim Skirt Two Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/1675c024-5c0f-49ad-969a-d658af2a100e</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791127886/royale-artelier/atuqs0ur0nw6mpu763dg.jpg</image:loc>
+      <image:title>Aso Oke Shorts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791127901/royale-artelier/rbubvigjwuxvymt6aowf.jpg</image:loc>
+      <image:title>Aso Oke Shorts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/6f8aea18-7043-4ca0-b581-969dea2fb42c</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791127581/royale-artelier/zeubnzm0mhxu9dd5hvw4.jpg</image:loc>
+      <image:title>Red Two Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/a7560e01-7eb5-4ece-b0e4-71074e7f8638</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791126975/royale-artelier/xdppecqgcc0alfwwoiwk.jpg</image:loc>
+      <image:title>Cotton Shirt Dress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/cb83f447-c0d5-4896-864e-f1f3aa4c1e76</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791125843/royale-artelier/isestrso0fwlk19fodi0.jpg</image:loc>
+      <image:title>Adire Print Two Piece</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791126825/royale-artelier/igtfruvdyg4okdqhcesm.jpg</image:loc>
+      <image:title>Adire Print Two Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/ae642b0f-bd20-4310-993b-d72d0534da51</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791125448/royale-artelier/e7grxjak4wkoxdidfsfv.jpg</image:loc>
+      <image:title>Two piece ballon pants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/759bea00-9ea6-4861-8cbb-ab5a6a106907</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791125010/royale-artelier/erpvilvy3j7l21dehtno.jpg</image:loc>
+      <image:title>Navy Two piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/b334bb29-fc83-4063-92cc-51d3e373b185</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1791124782/royale-artelier/xh3q64ukjlgsfx25a589.jpg</image:loc>
+      <image:title>Stripes two piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/2dd47d39-c9a0-4507-a037-187004c5009b</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787345601/royale-artelier/jific7u9xvvsdlxy7ymz.jpg</image:loc>
+      <image:title>Avaya Bubu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787345621/royale-artelier/vi4lecxnsj4iigda3lts.jpg</image:loc>
+      <image:title>Avaya Bubu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/8e7f67f5-3e8d-42aa-bada-22a1023b58c0</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787261888/royale-artelier/y4fqlbybylryfggk9znb.jpg</image:loc>
+      <image:title>Ava Bubu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787261897/royale-artelier/qkfwgjvsvlzo5fx0th64.jpg</image:loc>
+      <image:title>Ava Bubu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/e2a25f96-c11d-47a2-b1a3-5a321ff7e598</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787173268/royale-artelier/xcikgsao3juaewkmjhqm.jpg</image:loc>
+      <image:title>Ally Bubu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1787173277/royale-artelier/rq87dteulmpd4934x1hh.jpg</image:loc>
+      <image:title>Ally Bubu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/5aeedb93-ac24-4e5a-b099-0a4d437ef956</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786987705/royale-artelier/svnxdcxzgwgur7cspmbc.jpg</image:loc>
+      <image:title>Avery Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786987724/royale-artelier/i09jxsgeacrtxbeupxoc.jpg</image:loc>
+      <image:title>Avery Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786987736/royale-artelier/leremexpjlqzf0gszznf.jpg</image:loc>
+      <image:title>Avery Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786987746/royale-artelier/p7yflplyrbolnq3mdk2m.jpg</image:loc>
+      <image:title>Avery Dress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/8afed4c4-07f5-4f71-8a3d-76587dd6485f</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786983935/royale-artelier/cpb9vznnaupaerczqo1i.jpg</image:loc>
+      <image:title>Adunni Bubu Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786984021/royale-artelier/hegqig4wrhheb3clwcrw.jpg</image:loc>
+      <image:title>Adunni Bubu Dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1786984035/royale-artelier/ttsywpmjzlkftdaau2vi.jpg</image:loc>
+      <image:title>Adunni Bubu Dress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/01eb9f4e-8188-4afb-b7eb-d986a40dc991</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1781957368/royale-artelier/etcdut1p2uudn1f6g9mo.jpg</image:loc>
+      <image:title>BUBU 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1781957394/royale-artelier/kluljswdh4uvztakxs2a.jpg</image:loc>
+      <image:title>BUBU 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/caresskakka/image/upload/v1781957402/royale-artelier/rruj4zfq7kl4mjojq6lr.jpg</image:loc>
+      <image:title>BUBU 1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://royaleartelier.com/product/3387cd80-b36d-4ee8-b6d7-73fde47c860d</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dwdbuewim/image/upload/v1774135170/royale-artelier/cugghzsv8hvjpbg81d13.jpg</image:loc>
+      <image:title>Campala Gown</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dwdbuewim/image/upload/v1774135170/royale-artelier/nwdn21tqocsoej6lnykw.jpg</image:loc>
+      <image:title>Campala Gown</image:title>
+    </image:image>
+  </url>
+</urlset>
